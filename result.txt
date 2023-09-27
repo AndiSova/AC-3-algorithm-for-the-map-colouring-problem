@@ -1,0 +1,39 @@
+Country: WA with color: red
+Neighbours:
+NT, color: green
+SA, color: blue
+
+Country: NT with color: green
+Neighbours:
+SA, color: blue
+Q, color: red
+
+Country: SA with color: blue
+Neighbours:
+WA, color: red
+NT, color: green
+Q, color: red
+NSW, color: green
+V, color: red
+
+Country: Q with color: red
+Neighbours:
+SA, color: blue
+NT, color: green
+NSW, color: green
+
+Country: NSW with color: green
+Neighbours:
+SA, color: blue
+Q, color: red
+V, color: red
+
+Country: V with color: red
+Neighbours:
+SA, color: blue
+NSW, color: green
+
+Country: T with color: red
+Neighbours:
+
+
